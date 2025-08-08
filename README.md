@@ -72,7 +72,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/saadpasta/developerFolio.git
+git clone https://github.com/saadpasta/bashirahmed.git
 
 # Go into the repository
 cd developerFolio
@@ -116,7 +116,7 @@ Note: Configuring environment variables before deploying your portfolio is highl
 ```env
 // .env
 REACT_APP_GITHUB_TOKEN = "YOUR GITHUB TOKEN HERE"
-GITHUB_USERNAME = "YOUR GITHUB USERNAME"
+GITHUB_USERNAME = "bashirahmed801"
 USE_GITHUB_DATA = "true"
 ```
 
@@ -155,7 +155,7 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm bashir khan",
+  title: "Hi all I'm bashir Ahmed",
   subTitle: emoji("A passionate frontend Software Developer 🚀"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
